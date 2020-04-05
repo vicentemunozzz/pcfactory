@@ -1,0 +1,49 @@
+
+@media screen and (min-width:1080px) {
+
+    .IMG_EDIT{
+        width: 30%;
+    }
+    
+}
+
+@media screen and (max-width:360px) {
+
+    .IMG_EDIT{
+        width: 100%;
+    }
+    
+}
+
+@media screen and (max-width:411px) {
+
+    .IMG_EDIT{
+        width: 70%;
+    }
+    
+}
+
+@media screen and (max-width:320px) {
+
+    .IMG_EDIT{
+        width: 80%;
+    }
+    
+}
+
+@media screen and (max-width:440px) {
+
+    .IMG_EDIT{
+        width: 60%;
+    }
+    
+}
+  
+
+@media screen and (max-width:768px) {
+
+    .IMG_EDIT{
+        width: 45%;
+    }
+    
+}

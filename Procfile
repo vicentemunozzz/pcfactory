@@ -1,0 +1,1 @@
+web: gunicorn PcFactory.wsgi --log-file -
